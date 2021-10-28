@@ -1,0 +1,4 @@
+#!/bin/sh
+chmod +x zm
+chmod +x zm.cfg
+./zm --cfg-file zm.cfg
